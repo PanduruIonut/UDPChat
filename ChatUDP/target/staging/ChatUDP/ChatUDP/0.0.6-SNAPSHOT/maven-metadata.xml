@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>ChatUDP</groupId>
+  <artifactId>ChatUDP</artifactId>
+  <version>0.0.6-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170717.102110</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20170717102110</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.6-20170717.102110-3</value>
+        <updated>20170717102110</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.6-20170717.102110-3</value>
+        <updated>20170717102110</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
